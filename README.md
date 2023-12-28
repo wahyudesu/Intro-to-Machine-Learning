@@ -1,6 +1,9 @@
 # Intro-to-Machine-Learning
 
 ### Machine Learning- From Basics to Advanced
+<img src="https://github.com/wahyudesu/Intro-to-Machine-Learning/blob/main/Certification/1703084859361.jpeg" alt="" width="700"/>
+
+### Machine Learning- From Basics to Advanced
 <img src="https://github.com/wahyudesu/Intro-to-Machine-Learning/blob/main/Certification/UC-0b8f397d-9871-443f-ba94-8f9d54e7a53f.jpg" alt="" width="700"/>
 
 ### Python-Introduction to Data Science and Machine learning A-Z
